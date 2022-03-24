@@ -19,6 +19,6 @@ The following are a comprehensive link for most of the programs we have used:
 7. Word Similarity Evaluation: https://github.com/BinWang28/PVN-Post-Processing-of-word-representation-via-variance-normalization, https://github.com/BinWang28/EvalRank-Embedding-Evaluation
 8. QVEC evaluation: https://github.com/ytsvetko/qvec
 9. For Neural Machine Translation, you can get it from GitHub site: (https://github.com/OpenNMT/OpenNMT-py). We use perplexity evaluation only since it takes too much time to fully train an NMT model. And Europarl v8 dataset (French - English) for training.
-10. For Experiments on POS, Chunking and NER: (https://github.com/billy322/RepEval-2016). And also a copy is attached. We may have made some changes to the original project.
+10. For Experiments on POS, Chunking and NER: (https://github.com/billy322/RepEval-2016). 
 
 = = = = =
