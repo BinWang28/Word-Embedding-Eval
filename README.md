@@ -6,7 +6,7 @@ As someitmes been asked for the information for doing all experiments, we provid
 
 Since the experiments are conducted with different programming languages and different environments. The links are provided below, which takes soem time working them out.
  
-= = = = =
+= = = = = =
 
 The following are a comprehensive link for most of the programs we have used:
 
@@ -21,4 +21,4 @@ The following are a comprehensive link for most of the programs we have used:
 9. For Neural Machine Translation, you can get it from GitHub site: (https://github.com/OpenNMT/OpenNMT-py). We use perplexity evaluation only since it takes too much time to fully train an NMT model. And Europarl v8 dataset (French - English) for training.
 10. For Experiments on POS, Chunking and NER: (https://github.com/billy322/RepEval-2016). 
 
-= = = = =
+= = = = = =
